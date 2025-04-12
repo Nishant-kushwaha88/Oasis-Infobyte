@@ -32,6 +32,8 @@ This repository contains the **Level-2** tasks I completed as part of the intern
 
 To view or try these projects on your local machine:
 
-1. **Clone this repository**
-   ```bash
-   git clone https://github.com/Nishant-kushwaha88/OIBSIP.git
+1. Clone this repository: git clone https://github.com/Nishant-kushwaha88/OIBSIP
+2. Open the respective task folders in your preferred code editor.   
+3. Launch the HTML files in a web browser to experience the functionality of each task.
+
+   Thank you for reviewing my completed tasks!
