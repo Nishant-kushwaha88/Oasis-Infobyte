@@ -1,22 +1,37 @@
-Oasis Infobyte Internship - Task Completion
-This repository contains the completed tasks for the Oasis Infobyte internship. In this internship, I had the opportunity to work on various tasks at different levels, and I selected Level-2 for my project.
+# 🌟 Oasis Infobyte Internship - Level 2 Task Completion
 
-Task Details
-Task 1: Calculator App
-In this task, I developed a calculator web application using HTML, CSS, and JavaScript. The calculator allows users to perform basic mathematical operations such as addition, subtraction, multiplication, and division. The interface is user-friendly and responsive.
+Welcome to my project repository for the **Oasis Infobyte Internship**!  
+This repository contains the **Level-2** tasks I completed as part of the internship program. These tasks helped me enhance my front-end development skills using **HTML, CSS, and JavaScript**.
 
-Task 2: Tribute Page - Dr. B. R. Ambedkar
-For the second task, I created a tribute page dedicated to Dr. B. R. Ambedkar. The page provides information about Dr. Ambedkar's life, achievements, and contributions. It includes a visually appealing design and relevant content to honor his significant impact.
+---
 
-Task 3: Todo Web App
-The third task involved building a todo web application using HTML, CSS, and JavaScript. The todo app allows users to add tasks, mark them as complete, and delete them when necessary. It provides a simple and intuitive interface for managing and organizing tasks effectively.
+## 📋 Task List
 
-Getting Started
-To view and interact with the completed tasks, please follow these steps:
+### ✅ Task 1: Calculator App
+- A responsive calculator built using HTML, CSS & JavaScript.
+- Performs basic operations: addition, subtraction, multiplication, and division.
+- Clean and interactive UI for better user experience.
 
-1. Clone this repository: git clone https://github.com/Rishabh6306/OIBSIP/tree/main
-2. Open the respective task folders in your preferred code editor.
-3. Launch the HTML files in a web browser to experience the functionality of each task.
-Feel free to explore the code and provide any feedback or suggestions for improvement.
+### ✅ Task 2: Tribute Page – Dr. B. R. Ambedkar
+- A beautifully designed tribute page dedicated to **Dr. B. R. Ambedkar**.
+- Includes structured content about his life, achievements, and contributions.
+- Enhanced with custom fonts, layout, and design elements.
 
-Thank you for reviewing my completed tasks!
+### ✅ Task 3: To-Do Web App
+- A dynamic to-do list application to manage daily tasks.
+- Features include:
+  - Add new tasks
+  - Mark tasks as completed
+  - Edit or delete tasks
+  - Separate sections for Pending and Completed tasks
+  - Displays time and date for each task
+
+---
+
+## 🚀 Getting Started
+
+To view or try these projects on your local machine:
+
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/Nishant-kushwaha88/OIBSIP.git
