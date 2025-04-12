@@ -32,7 +32,7 @@ This repository contains the **Level-2** tasks I completed as part of the intern
 
 To view or try these projects on your local machine:
 
-1. Clone this repository: git clone https://github.com/Nishant-kushwaha88/OIBSIP
+1. Clone this repository: git clone https://github.com/Nishant-kushwaha88/Oasis-Infobyte/tree/main
 2. Open the respective task folders in your preferred code editor.   
 3. Launch the HTML files in a web browser to experience the functionality of each task.
 
